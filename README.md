@@ -1,5 +1,5 @@
 # Food_Delivery_PBI_Dashboard
-This project showcases dynamic dashboard report that helps a food delivery service to answer 5 of their crucial business questions.
+This project showcases dynamic dashboard report that helps a food delivery service to answer few of their crucial business questions.
 
 Dataset: <br />
 Table 1 - Historical data of demand for a product-canter combination <br />
