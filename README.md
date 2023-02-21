@@ -15,3 +15,5 @@ The report answers following business questions for the client:
 6)	Does the operational area of the store influence number of orders?
 7)	Are emails & product features on the homepage an effective mode of promotion?
 8)	What will be the next 5 weeks forecasted weekly quantity sold for each centre, city, and meal category?
+
+<img width="558" alt="image" src="https://user-images.githubusercontent.com/120482839/220428347-7940ded9-031a-4e4b-a7c4-eec119416bd1.png">
